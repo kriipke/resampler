@@ -1,5 +1,5 @@
 packages:
-  - name: joke
+  - name: audio
     actions:
-      - name: joke
+      - name: info
         runtime: 'python:default'
